@@ -16,7 +16,6 @@ const Devform = () => {
 
     // get all data
     let { name, email, phone, photo } = input;
-    console.log(name);
 
 
     // form management
